@@ -1,7 +1,7 @@
+#[allow(dead_code)]
 pub fn userfunc(){
 
     #[derive(Debug)]
-#[allow(dead_code)]
 
    struct User {
     active : Option<bool>,

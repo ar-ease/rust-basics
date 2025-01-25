@@ -1,7 +1,4 @@
-
-
-
-    pub fn say_hello(name : &str)->String{
+pub fn say_hello(name : &str)->String{
 
 format!("hello000000000000000000000000000000, {}!", name)
 }
