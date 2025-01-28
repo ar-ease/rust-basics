@@ -1,8 +1,4 @@
-mod fibonacci;
-use fibonacci::fib;
-mod user;
-mod greetings;
-mod utils;
+mod resultenum;
 
 fn main() {
 
@@ -10,10 +6,6 @@ fn main() {
 //user::userfunc();
 
 //utils::use_say_hello("Arghya");
-
-    //let x:i32 = fib(6);
-    //println!("{}", x);
-
-
+resultenum::result_enum();
 
 }
